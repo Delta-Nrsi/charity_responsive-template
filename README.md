@@ -1,8 +1,5 @@
-# Charity website template - ARCHIVED
+# National Rocketry and Space Institustion 
 
-Nice fluid website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
-
-Demo: [http://website-templates.github.io/charity_responsive-template](http://website-templates.github.io/charity_responsive-template/)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
